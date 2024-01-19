@@ -1,0 +1,8 @@
+.env
+.env.prod
+
+/*.json
+
+downloads/
+
+__pycache__
